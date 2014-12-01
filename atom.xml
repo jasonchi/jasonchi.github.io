@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Make A Good Habit]]></title>
+  <link href="http://jasonchi.github.io/atom.xml" rel="self"/>
+  <link href="http://jasonchi.github.io/"/>
+  <updated>2014-12-01T16:55:11-05:00</updated>
+  <id>http://jasonchi.github.io/</id>
+  <author>
+    <name><![CDATA[Jason Chi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[归来]]></title>
+    <link href="http://jasonchi.github.io/blog/2014/12/01/gui-lai/"/>
+    <updated>2014-12-01T16:35:28-05:00</updated>
+    <id>http://jasonchi.github.io/blog/2014/12/01/gui-lai</id>
+    <content type="html"><![CDATA[<p>一直以来都准备给自己弄个博客，写什么都可以，主要是为了记录一下。之所以说是归来，是因为之前也有创建过一个博客，但是无奈没有坚持下来，这次忽然意识到自己应该有以后可以回过头来看看过去的一个地方，再加上最近一直在健身减肥，觉得坚持也不是想象得那么难，其实只要给自己稍微一点压力，每天跨出那一步，就像前两天看到某个文章中写的，只要持续去做一件事情21次，那么就会变成一个习惯，想想也是，健身似乎已经无形中成为了我的一个习惯，庆幸还算一个好习惯，相信这次开博也是一个好习惯的开始，加油！！</p>
+]]></content>
+  </entry>
+  
+</feed>
